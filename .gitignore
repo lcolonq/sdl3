@@ -3,6 +3,8 @@ build-*/
 !build-scripts/
 buildbot/
 /VERSION.txt
+/.direnv
+/result
 __pycache__
 
 *.so
